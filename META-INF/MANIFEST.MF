@@ -1,0 +1,210 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: assets/www/coe/gpcy21b.html
+SHA1-Digest: y9i5VmJ+sD9kpnycNeqkMsRb2vA=
+
+Name: assets/www/css/time.css
+SHA1-Digest: JCWyiBZ8RMxT8TpQQr7B5Se+hdc=
+
+Name: res/xml/config.xml
+SHA1-Digest: llzRA31/jiWfx79igKSrmsO6NCQ=
+
+Name: assets/www/js/application.js
+SHA1-Digest: 9AEyU34sgpK+HwWEjRLdd356asI=
+
+Name: assets/www/js/Chart.js
+SHA1-Digest: bHaGSCTZ/gKb7DlUXtKtzocIvyo=
+
+Name: assets/www/js/idangerous.swiper.scrollbar-2.0.js
+SHA1-Digest: m8QpX4A2hxfP7jg7++8WFpAOv8k=
+
+Name: assets/www/coe/gpc_sem.html
+SHA1-Digest: kl8M0YhGY945BeIR1KRzm3JjOCk=
+
+Name: assets/www/js/jquery-1.8.2.js
+SHA1-Digest: oPSLatUyKzU4P/y24vp3m4pfz/w=
+
+Name: assets/www/js/pretty.js
+SHA1-Digest: B6GBRpqAI1mDdvNyFNew+gV8gfU=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 2J9Tvy/YaxPRs/ZafKZe/EsVt/o=
+
+Name: assets/www/css/gallery-app.css
+SHA1-Digest: BOHX7pnxOsY87qGbVytQFKKutXc=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: Lw/SqxqQxDgeX1jWQ7pEzoJ873E=
+
+Name: assets/www/coe/gpcy22b.html
+SHA1-Digest: Umfj4hcJwEqLXygyYx63nu+Ynmg=
+
+Name: assets/www/css/style.css
+SHA1-Digest: 7ww6rPAL1uvb3xeutZeYXqdl+FQ=
+
+Name: assets/www/css/simple-app.css
+SHA1-Digest: t5gcwWt5V5zyDnrH6WoSkASJjJQ=
+
+Name: assets/www/js/bootstrap-tooltip.js
+SHA1-Digest: Sepn7HWsWLFNMoxZ3YwiZB6FAr4=
+
+Name: assets/www/css/component.css
+SHA1-Digest: Uqs2mwtYnxzrKJ1tjtfCgeQqLDU=
+
+Name: assets/www/js/idangerous.swiper-2.0.min.js
+SHA1-Digest: Zcmxn+Mi/KdeLFNKHZadDhigSek=
+
+Name: assets/www/css/idangerous.swiper.scrollbar.css
+SHA1-Digest: eMXyD9ASVxoowpvJdrKj4fAENxE=
+
+Name: assets/www/css/demom.css
+SHA1-Digest: dKbT28S7Bq4y/H87DgIRGWt1WYo=
+
+Name: assets/www/js/jquery-ui-1.10.3.custom.js
+SHA1-Digest: rVFj8UrnzNB4pxAG/pMNPwM3EKU=
+
+Name: assets/www/css/idangerous.swiper.css
+SHA1-Digest: Z6bOjTYU8/REWGc1FJdOypbP0IU=
+
+Name: assets/www/js/jquery.dropkick-1.0.0.js
+SHA1-Digest: AaIzY7nyYHwFTmHRQXTz8QHr+Ck=
+
+Name: assets/www/js/simple-app.js
+SHA1-Digest: x9MYvuY86+PtSPvtQgY57hkmDS4=
+
+Name: assets/www/js/jquery.min.js
+SHA1-Digest: nrmsWV6bVUTi3Hn/980tC0te9x8=
+
+Name: assets/www/js/modernizr.custom.js
+SHA1-Digest: 3DyhK52WvLZ4w99G5klc/8AC2fA=
+
+Name: assets/www/css/toggle.png
+SHA1-Digest: QIwEbjWB1aACaNmhQBT5et1dEfE=
+
+Name: assets/www/css/demo.css
+SHA1-Digest: a0XUBi6gODqeNIMowf42iKxJg3Y=
+
+Name: res/layout/main.xml
+SHA1-Digest: OqTCCgP6QxS1lSlNr6G7xo8W0/Y=
+
+Name: assets/www/cordova.js
+SHA1-Digest: Ur0waEgp7U7BVioX3utWixRn7I8=
+
+Name: assets/www/js/ga.js
+SHA1-Digest: 6JB+it9Tq+rVxDmLA0mKyzW9m/I=
+
+Name: assets/www/js/gallery-app.js
+SHA1-Digest: PBmz7VTRPNV5CXHwP4jHgWNJBCw=
+
+Name: assets/www/coe/gpcy1a.html
+SHA1-Digest: Y6Nab70LQm/zNbHr1isL2vSgC5M=
+
+Name: assets/www/index.html
+SHA1-Digest: RmGjFOMFUjUKCVNpRYDYRvbUoaE=
+
+Name: assets/www/css/normalize.css
+SHA1-Digest: oP8eL+7gsbt+VKiP1jZ7o+dDWq8=
+
+Name: assets/www/js/jquery.placeholder.js
+SHA1-Digest: MlCZFfgyMsqtPWc5cZmFpBhsXDY=
+
+Name: assets/www/js/m_modernizr.custom.js
+SHA1-Digest: vJWCYS8Rv5a8VvdTR89UE4M5d4o=
+
+Name: assets/www/coe/gpcy1b.html
+SHA1-Digest: RQrV1hMspUfvhEzGYZdLf3hXxd4=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: resources.arsc
+SHA1-Digest: N5Cd5k3CCrW0G0ePBrLKo69/pw4=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: CepliFtAgOUV73Bk6BbHeZHAdXs=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: Ur0waEgp7U7BVioX3utWixRn7I8=
+
+Name: assets/www/coe/gpcy21a.html
+SHA1-Digest: 7k80uqu4yMNHwo71T8zuiPVR8pw=
+
+Name: assets/www/coe/newjsc2.js
+SHA1-Digest: meGTM3Dh3AFGDHsGDtMxccelCxg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: zNNPfa2wenA2hr0MtOJuLP7bo9Y=
+
+Name: assets/www/css/scrollbar.css
+SHA1-Digest: ZmajcCpOISAzshU52LHxCsaLd1I=
+
+Name: assets/www/coe/newjsc1.js
+SHA1-Digest: UdjSECDLAS1fvOUO/bJjSsIIf6w=
+
+Name: assets/www/js/classie.js
+SHA1-Digest: eCuVZPAVoux735yJ4jj6ubRL1Yc=
+
+Name: assets/www/css/flat-ui.css
+SHA1-Digest: WQfVJ0NFnAB0B4/42vusr7vAqLw=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: assets/www/coe/newjsc.js
+SHA1-Digest: yQhg0ptqzJLjZzSsfwS3Q0S4osc=
+
+Name: assets/www/css/component1.css
+SHA1-Digest: wpAYUHLf7jTlFr55j9Mct1UWBvc=
+
+Name: assets/www/coe/resultsc2.html
+SHA1-Digest: fyhq9mMNo5zj0yBNELPszJVqeZM=
+
+Name: assets/www/coe/resultsc1.html
+SHA1-Digest: Q2GBMrH/DrXSB6c3yQtpiBrJHDM=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: +/nHfQxOPDSkhZgMHlMWtiEhYMg=
+
+Name: assets/www/js/custom_checkbox_and_radio.js
+SHA1-Digest: feB7HBMTS4S2LzYbE2smCW6HUFM=
+
+Name: classes.dex
+SHA1-Digest: jKwcy9QBzIao88/UOyDxPHL8V7Q=
+
+Name: assets/www/main.html
+SHA1-Digest: 5r/EOG4Xo7OmzU+niMHJytIbl54=
+
+Name: assets/www/css/icons.css
+SHA1-Digest: EgOYZ9iesnxSNs+oZtRgBQZ7qzo=
+
+Name: assets/www/css/componentm.css
+SHA1-Digest: HAemxq+eV3nOSE3aPMPU7FZx9ls=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: assets/www/js/1mlpushmenu.js
+SHA1-Digest: sAdxl+r6kxI6XagSrIpgSXYa3ro=
+
+Name: res/drawable/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: assets/www/icon.png
+SHA1-Digest: fa7yW3ybMLHrictjv65kv8/j6G4=
+
+Name: assets/www/coe/gpcy22a.html
+SHA1-Digest: 86IkdkJRZ3NDeA+1iCuuwGSQ8Oc=
+
+Name: assets/www/css/bootstrap.css
+SHA1-Digest: 7dle4Fc5ibqiQ8aCW66wLVsk8+0=
+
+Name: assets/www/js/jquery.tagsinput.js
+SHA1-Digest: fICjatGhh+/HLgkk1PW8t7rBXFs=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 7k0R15Eowd7viwJeIN6gaJ1z0j0=
+

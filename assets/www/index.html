@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)http://tympanus.net/Development/MultiLevelPushMenu/index.html -->
+<html lang="en" class=" js csstransforms3d" style="">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="UTF-8">
+		<style type="text/css"></style><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>Onpoint</title>
+		<meta name="description" content="onpoint student app">
+		<meta name="keywords" content="onpoint,velexo ">
+		<meta name="author" content="velexo">
+		<link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/icons.css">
+		<link rel="stylesheet" type="text/css" href="css/component1.css">
+		<link rel="stylesheet" type="text/css" href="css/demom.css">
+		<link rel="stylesheet" type="text/css" href="css/demo.css">
+		 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/flat-ui.css">
+		<script type="text/javascript" async src="js/ga.js"></script>
+		<script src="js/m_modernizr.custom.js"></script>
+		 <script src="js/jquery-1.8.2.js"></script>
+ <style type="text/css">
+#coeMenu   {display: none;}
+#polyMenu  {display: none;}
+#uniMenu  {display: none;}
+#libMenu  {display: none;}
+#abtMenu  {display: none;}
+#helpMenu {display: none;}
+#perTimeMenu{display: none;}
+#schTimeMenu{display: none;}
+#noteMenu {display: none;}
+#appMenu1{}
+#gpuaMenu{display: none;}
+#preloader{display: none;}
+.btn-g{background: #7A7A7A;}
+
+    </style>
+    
+</head>
+	<body style="">
+		<div class="container">
+			  
+
+			<!-- Push Wrapper -->
+	   <div>
+
+        
+      <!-- /scroller-inner -->
+
+    <div class="scroller"><!-- this is for emulating position fixed of the nav -->
+          <div class="scroller-inner">
+            <!-- Top Navigation -->
+        <nav id="trigger"  class="menu-trigger" style="list-style:none"><img src="images/onpoint.png"></nav>
+         
+          
+          </div>
+
+
+<div id="content"> 
+<div id="inside" class="content  scroll-container" style="margin-top:10%; ">
+         <!--APPLICATION MENU-->
+
+
+           <nav id="appMenu1" class="page" role="navigation">
+            <ul id="menu1">
+                <li><a id="ctime" class="btn btn-large btn-block btn-info btn-3e " href="#timeMenu">
+                     <img src="images/time.png" style="width:25px;">
+                      Time Table<span class="smals">(planning that pays)</span>
+                    
+                    </a>
+                        <ul class="active bmarg">
+                        <li>
+                        <a  class="tab btn btn-large btn-block btn-info btn-3e "  href="timetable/perTimetable.html"
+                      <i class=" icon-briefcase icon-white noback"></i>
+                      Personal<span class="smals">(pR8 timetable)</span>
+                    </a></li>
+                        <li><a class="tab btn btn-large btn-block btn-info btn-3e " href="timetable/schTimetable.html">
+                      <i class="icon-star-empty icon-white"></i>
+                      School<span class="smals">(lecture timetable)</span>
+                    </a></li>
+                      </ul>
+                </li>
+                    <li><a id="gp1" class="btn btn-large btn-block btn-warning btn-3e ">
+                      <img src="images/gp.png" style="width:25px;">
+                      GPA Calc.<span class="smals">(focus that strenghtens)</span>
+                    </a>
+                        <ul>
+                        <li><a id="coe" class="tab btn btn-large btn-block btn-info btn-3e">
+                        <i class="icon-folder-close icon-white"></i>
+                        Col. of Edu.<span class="smals">(5pnt system)</span>
+                       </a></li> 
+                      <li><a id="poly" class="tab btn btn-large btn-block btn-info btn-3e">
+                      <i class="icon-check icon-white"></i>
+                      Polytechnic<span class="smals">(4pnt system)</span>
+                      </a></li>
+                     <li><a id="uni" class="tab btn btn-large btn-block btn-info btn-3e">
+                      <i class="icon-folder-open icon-white"></i>
+                      University<span class="smals">(5pnt system)</span>
+                      </a></li>
+                      </ul>
+                    </li>
+                    <li><a id="lib" class="btn btn-large btn-block btn-info btn-3e " href="lib.html">
+                      <img src="images/lib.png" style="width:25px;">
+                      Library <span class="smals">(resource that builds)</span>
+                    </a></li>
+                    <li><a style="background:#3B3739;border-top:  1px solid #8CDAD9;" id="helps" class="btn btn-large btn-block btn-info btn-3e " href="help.html">
+                      <img src="images/help.png" style="width:25px;">
+                      Help <span class="smals">(How to use)</span>
+                    </a></li>
+                    <li><a id="abt" class="btn btn-large btn-block btn-info btn-3e " href="#abtMenu">
+                     <img src="images/about.png" style="width:25px;">
+                      About<span class="smals">(Onpoint)</span>
+                    </a></li>
+                   </ul></div>
+               
+          </nav>
+  
+
+         <!--COLLEGE OF EDU. MENU-->
+<nav id="coeMenu" class="page" role="navigation">
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="coe/gpc_sem.html">
+                      <i class=" icon-briefcase icon-white"></i>
+                      A Semester<span class="smals">(<sup>1</sup>/<sub>2</sub> year)</span>
+                    </a>
+                    <a class="btn btn-large btn-block btn-info btn-3e" href="coe/gpcy1a.html">
+                      <i class="icon-briefcase icon-white"></i>
+                      A Session <span class="smals">(1 year)</span>
+                    </a>
+                    <a class="btn btn-large btn-block btn-info btn-3e " href="coe/gpcy21a.html">
+                      <i class="icon-briefcase icon-white"></i>
+                      2 Sessions<span class="smals">(2 years)</span>
+                    </a>
+</nav>
+
+ <!--POLYTECHNIC MENU-->
+ <nav id="polyMenu" class="page" role="navigation"> 
+        <a class="tab btn btn-large btn-block btn-info btn-3e" href="poly/gpp_sem.html">
+                      <i class="icon-star-empty icon-white"></i>
+                      A Semester<span class="smals">(<sup>1</sup>/<sub>2</sub> year)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="poly/gppy1a.html">
+                      <i class="icon-star-empty icon-white"></i>
+                      A Session <span class="smals">(1 year)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="poly/gppy21a.html">
+                      <i class="icon-star-empty icon-white"></i>
+                      2 Sessions<span class="smals">(2 years)</span>
+                    </a>
+ </nav>
+
+<!--UNIVERSITY APP MENU-->
+<nav id="uniMenu" class="page" role="navigation">
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpu_sem.html">
+                      <i class="icon-book icon-white"></i>
+                      A Semester<span class="smals">(<sup>1</sup>/<sub>2</sub> year)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpuy1a.html">
+                      <i class="icon-book icon-white"></i>
+                      A Session <span class="smals">(1 year)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpuy21a.html">
+                      <i class="icon-book icon-white"></i>
+                      2 Sessions<span class="smals">(2 years)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpuy31a.html">
+                      <i class="icon-book icon-white"></i>
+                      3 Sessions <span class="smals">(3 year)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpuy41a.html#">
+                      <i class="icon-book icon-white"></i>
+                      4 Sessions<span class="smals">(4 years)</span>
+                    </a>
+                    <a class="tab btn btn-large btn-block btn-info btn-3e" href="uni/gpuy51a.html">
+                      <i class="icon-book icon-white"></i>
+                      5 Sessions<span class="smals">(5 years)</span>
+                    </a>
+                  </nav>
+
+ <!--LIBRARY APP MENU-->
+<nav id="libMenu" class="page" role="navigation">
+<div>
+ONPOINT: the best student app ever
+</div>
+</nav>
+
+<!--ABOUT US MENU-->
+<div id="abtMenu" class="page" role="navigation">
+<p >
+  <ul style="padding:15%;font-size:18px;list-style:none; text-align:center;">
+    <li><a href="https://twitter.com/theonpointapp" title="@theonpointapp"><h5 style="color:#fff">Onpoint <span style="color:#8CDAD9">1.0:</span></h5></a>
+     <p>the students effectiveness app, helping the undergrad be the best!</p></li>
+    <li><br/></li>
+    <li ><a href="https://twitter.com/velexoinc" title="@velexoinc">&copy team<small style="color:#fff">VELEXO </small>2013</a></li>
+  </ul></p>
+</div>
+
+<!--HELP MENU-->
+<div id="helpMenu" class="page" role="navigation">
+
+</div>
+
+<!--PERSONAL TIMETABLE MENU-->
+<nav id="perTimeMenu" class="page" >
+
+</nav>
+
+<!--SCHOOL TIMETABLE MENU-->
+<nav id="schTimeMenu" class="page" >
+
+</nav>
+
+
+</div>
+</div>
+
+ <div id="resultDiv"></div>
+
+
+</section>
+
+
+
+ <script type="text/javascript">
+    $('#menu1 > li > ul')
+.hide()
+.click(function(event) {
+event.stopPropagation();
+});
+
+$('#menu1 > li').toggle(function() {
+$(this).find('ul').slideDown();
+}, function() {
+$(this).find('ul').slideUp();
+});
+
+      $('#coe').click(function() {
+        $('#appMenu1').slideUp("slow");
+       $('#coeMenu').slideDown("slow");
+     });
+
+      $('#poly').click(function() {
+       $('#appMenu1').hide();
+       $('#polyMenu').show();
+     });
+
+      $('#uni').click(function() {
+       $('#appMenu1').slideUp();
+       $('#uniMenu').show();
+     });
+
+      $('#lib').on("click",function() {
+      $('#appMenu1').fadeOut();
+      window.location="lib.html";
+     });
+
+      $('#abt').on("click",function() {
+       $('#appMenu1').fadeOut();
+       $('#abtMenu').fadeIn("slow");
+     }); 
+      $('#helps').on("click",function() {
+       $('#appMenu1').fadeOut();
+      window.location="help.html";
+     });
+
+      	 $('#app').on("click",function() {
+       $('.page').fadeOut();
+       $('#appMenu1').slideDown();
+     });
+/*
+   $('#note').on("click",function() {
+      window.location="perTimetable.html";
+      
+     });*/
+
+      $('#gpua').on("click",function() {
+       $('.page').fadeOut();
+       $('#gpuaMenu').show();
+     });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+						</div>
+					</div><!-- /scroller-inner -->
+				</div><!-- /scroller -->
+
+			</div><!-- /pusher -->
+		</div><!-- /container -->
+		<script src="js/jquery.dropkick-1.0.0.js"></script>
+    <script src="js/jquery.tagsinput.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/jquery.placeholder.js"></script>
+    <script src="js/classie.js"></script>
+		<script src="uni/newjs.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/mlpushmenu.js"></script>
+		<script>
+			new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'trigger' ) );
+		</script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Onpoint App</title> 
+
+    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    <script type="text/javascript" charset="utf-8">
+    
+    document.addEventListener("deviceready", onDeviceReady, false);
+    function onDeviceReady() {
+
+                          if (window.localStorage.firstTime){
+                             window.location="index.html"; 
+                                }
+                                else{
+                             window.localStorage.firstTime = 1
+                             window.location="index.html";
+                              };
+                           };
+
+       </script>
+<style type="text/css">
+      body{
+      background-color:#3B3739;
+      }
+      img{
+        padding: 20%;
+        margin: 50%:;
+      }
+ </style>
+ </head>
+
+
+
+  <body>
+    <img src="icon.png"/>
+  </body>
+</html>
